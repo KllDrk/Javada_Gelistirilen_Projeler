@@ -1,0 +1,94 @@
+1. Ulkede En cok tekrar eden sayi=95tekrar sayisi=10temp degeri=10
+2. Ulkede En cok tekrar eden sayi=36tekrar sayisi=10temp degeri=10
+2. Ulkede En cok tekrar eden sayi=50tekrar sayisi=10temp degeri=10
+3. Ulkede En cok tekrar eden sayi=21tekrar sayisi=8temp degeri=8
+3. Ulkede En cok tekrar eden sayi=23tekrar sayisi=8temp degeri=8
+3. Ulkede En cok tekrar eden sayi=39tekrar sayisi=8temp degeri=8
+4. Ulkede En cok tekrar eden sayi=55tekrar sayisi=11temp degeri=11
+1. Ulkede En cok tekrar eden sayi=98	tekrar sayisi=11
+2. Ulkede En cok tekrar eden sayi=47	tekrar sayisi=9
+3. Ulkede En cok tekrar eden sayi=87	tekrar sayisi=9
+4. Ulkede En cok tekrar eden sayi=85	tekrar sayisi=10
+1. Ulkede En cok tekrar eden sayi=46	tekrar sayisi=10
+2. Ulkede En cok tekrar eden sayi=51	tekrar sayisi=10
+3. Ulkede En cok tekrar eden sayi=66	tekrar sayisi=9
+4. Ulkede En cok tekrar eden sayi=28	tekrar sayisi=8
+4. Ulkede En cok tekrar eden sayi=39	tekrar sayisi=8
+4. Ulkede En cok tekrar eden sayi=51	tekrar sayisi=8
+1.Ulkede Ortanca Degeri=47
+2.Ulkede Ortanca Degeri=50
+3.Ulkede Ortanca Degeri=51
+4.Ulkede Ortanca Degeri=47
+1. Ulkede Degisim Araligi=99
+2. Ulkede Degisim Araligi=99
+3. Ulkede Degisim Araligi=99
+4. Ulkede Degisim Araligi=99
+1. Ülkenin aritmetik ortalamasi=49.01096
+2. Ülkenin aritmetik ortalamasi=49.60274
+3. Ülkenin aritmetik ortalamasi=50.342464
+4. Ülkenin aritmetik ortalamasi=49.22466
+1. Ulkede Ortalama Sapma=24.296356
+2. Ulkede Ortalama Sapma=23.787966
+3. Ulkede Ortalama Sapma=25.077547
+4. Ulkede Ortalama Sapma=24.373896
+1. Ülkenin aritmetik ortalamasi=98.02192
+2. Ülkenin aritmetik ortalamasi=99.20548
+3. Ülkenin aritmetik ortalamasi=100.68493
+4. Ülkenin aritmetik ortalamasi=98.44932
+1Ulkenin Varyans Degeri=3217.7712
+2Ulkenin Varyans Degeri=3265.256
+3Ulkenin Varyans Degeri=3375.3884
+4Ulkenin Varyans Degeri=3242.3032
+1. Ulkenin Standart Sapma Degeri=56.725403
+2. Ulkenin Standart Sapma Degeri=57.142418
+3. Ulkenin Standart Sapma Degeri=58.09809
+4. Ulkenin Standart Sapma Degeri=56.941227
+1. Ülkenin aritmetik ortalamasi=147.03288
+2. Ülkenin aritmetik ortalamasi=148.80821
+3. Ülkenin aritmetik ortalamasi=151.0274
+4. Ülkenin aritmetik ortalamasi=147.67397
+1Ulkenin Varyans Degeri=10443.795
+2Ulkenin Varyans Degeri=10666.825
+3Ulkenin Varyans Degeri=10999.369
+4Ulkenin Varyans Degeri=10531.469
+1. Ulkenin Standart Sapma Degeri=102.194885
+2. Ulkenin Standart Sapma Degeri=103.28032
+3. Ulkenin Standart Sapma Degeri=104.87788
+4. Ulkenin Standart Sapma Degeri=102.62294
+1. Ülkenin aritmetik ortalamasi=48.53425
+2. Ülkenin aritmetik ortalamasi=49.556164
+3. Ülkenin aritmetik ortalamasi=51.7863
+4. Ülkenin aritmetik ortalamasi=50.460274
+1. Ülkenin aritmetik ortalamasi=48.53425
+2. Ülkenin aritmetik ortalamasi=49.556164
+3. Ülkenin aritmetik ortalamasi=51.7863
+4. Ülkenin aritmetik ortalamasi=50.460274
+1. Ülkenin aritmetik ortalamasi=48.53425
+2. Ülkenin aritmetik ortalamasi=49.556164
+3. Ülkenin aritmetik ortalamasi=51.7863
+4. Ülkenin aritmetik ortalamasi=50.460274
+1Ulkenin Varyans Degeri=849.6066
+2Ulkenin Varyans Degeri=821.41785
+3Ulkenin Varyans Degeri=865.9162
+4Ulkenin Varyans Degeri=864.6279
+1. Ulkenin Standart Sapma Degeri=29.148012
+2. Ulkenin Standart Sapma Degeri=28.660389
+3. Ulkenin Standart Sapma Degeri=29.426453
+4. Ulkenin Standart Sapma Degeri=29.404556
+1. Ülkenin aritmetik ortalamasi=48.53425
+2. Ülkenin aritmetik ortalamasi=49.556164
+3. Ülkenin aritmetik ortalamasi=51.7863
+4. Ülkenin aritmetik ortalamasi=50.460274
+1Ulkenin Varyans Degeri=849.6066
+2Ulkenin Varyans Degeri=821.41785
+3Ulkenin Varyans Degeri=865.9162
+4Ulkenin Varyans Degeri=864.6279
+1. Ulkenin Standart Sapma Degeri=29.148012
+2. Ulkenin Standart Sapma Degeri=28.660389
+3. Ulkenin Standart Sapma Degeri=29.426453
+4. Ulkenin Standart Sapma Degeri=29.404556
+1. Ulkede En cok tekrar eden sayi=0	tekrar sayisi=10
+2. Ulkede En cok tekrar eden sayi=49	tekrar sayisi=10
+3. Ulkede En cok tekrar eden sayi=35	tekrar sayisi=10
+4. Ulkede En cok tekrar eden sayi=29	tekrar sayisi=9
+4. Ulkede En cok tekrar eden sayi=96	tekrar sayisi=9
